@@ -1,0 +1,33 @@
+entities:
+  Q04740:
+    type: protein
+    name: RNAH1
+    modifications: []
+    useStructureTemplate: false
+  P13433:
+    type: protein
+    name: RPO41
+    modifications: []
+    useStructureTemplate: false
+  P39112:
+    type: protein
+    name: DSS1
+    modifications: []
+    useStructureTemplate: false
+  P32580:
+    type: protein
+    name: SUV3
+    modifications: []
+    useStructureTemplate: false
+
+jobs:
+  - name: "RNAH1-RPO41-DSS1-SUV3"
+    entities: ["Q04740", "P13433", "P39112", "P32580"]
+  - name: "RNAH1-DSS1-SUV3"
+    entities: ["Q04740", "P39112", "P32580"]
+  - name: "RNAH1-RPO41"
+    entities: ["Q04740", "P13433"]
+  - name: "RNAH1-DSS1"
+    entities: ["Q04740", "P39112"]
+  - name: "RNAH1-SUV3"
+    entities: ["Q04740", "P32580"]

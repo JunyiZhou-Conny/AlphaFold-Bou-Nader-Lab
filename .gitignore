@@ -1,0 +1,66 @@
+# Large files and directories
+Autoclicker Limbo/
+**/Cache/
+**/Cache_Data/
+*.tflite
+*.model
+*.h5
+*.pkl
+*.bin
+*.json
+*.txt
+*.fasta
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.docx
+*.doc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+*.zip
+*.pptx
