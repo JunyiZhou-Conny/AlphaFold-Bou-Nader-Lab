@@ -1,0 +1,20 @@
+#!/bin/bash
+
+source_dir="/Users/conny/Desktop/AlphaFold/Project/RNH1_Q40740_Collab_Project/results/ranked_pdbs"
+dest_dir="/Users/conny/Desktop/AlphaFold/Project/RNH1_Q40740_Collab_Project/results/Best_Proteins_MMseqs2"
+
+cp "$source_dir/Q04740_and_Q07688_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P39990_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P32381_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P06780_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_Q04951_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P40509_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_Q12288_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P15703_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_Q12672_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P22213_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P13099_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_Q02753_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P47064_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P41277_ranked_0.pdb" "$dest_dir/"
+cp "$source_dir/Q04740_and_P53633_ranked_0.pdb" "$dest_dir/"

@@ -2,6 +2,45 @@
 Autoclicker Limbo/
 **/Cache/
 **/Cache_Data/
+**/Safe Browsing/
+**/optimization_guide_model_store/
+**/component_crx_cache/
+**/GrShaderCache/
+**/GraphiteDawnCache/
+**/ShaderCache/
+**/MEIPreload/
+**/WidevineCdm/
+**/RecoveryImproved/
+**/PKIMetadata/
+**/OriginTrials/
+**/OnDeviceHeadSuggestModel/
+**/OpenCookieDatabase/
+**/NativeMessagingHosts/
+**/HistorySearch/
+**/FileTypePolicies/
+**/FirstPartySetsPreloaded/
+**/Default/
+**/Crowd Deny/
+**/CookieReadinessList/
+**/CommerceHeuristics/
+**/ChromeFeatureState/
+**/CertificateRevocation/
+**/AutofillStates/
+**/AmountExtractionHeuristicRegexes/
+**/ZxcvbnData/
+**/TrustTokenKeyCommitments/
+**/TpcdMetadata/
+**/System Profile/
+**/Subresource Filter/
+**/SSLErrorAssistant/
+**/SafetyTips/
+**/segmentation_platform/
+**/PrivacySandboxAttestationsPreloaded/
+**/ProbabilisticRevealTokenRegistry/
+**/Profile*/
+**/chrome_debug.log
+**/BrowserMetrics*
+**/CertificateRevocation/
 *.tflite
 *.model
 *.h5
@@ -16,6 +55,7 @@ Autoclicker Limbo/
 *.xls
 *.docx
 *.doc
+*.pdf
 
 # Python
 __pycache__/
